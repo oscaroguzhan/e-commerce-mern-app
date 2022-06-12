@@ -52,6 +52,9 @@ const ImageContainer = styled.div`
   height: 100%;
 `;
 const InfoContainer = styled.div`
+  display: flex;
+  flex-direction:column;
+  align-items: center;
   flex: 1;
   height: 100%;
 `;
@@ -65,7 +68,7 @@ const Title = styled.h1`
   text-align: center;
 `;
 const Desc = styled.div`
-  margin: 50px 0;
+  margin: 50px 10px;
   font-size: 1.5rem;
   letter-spacing: 2px;
 `;

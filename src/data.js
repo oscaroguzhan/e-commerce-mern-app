@@ -1,14 +1,14 @@
 export const sliderItems = [
   {
     id: 1,
-    img: "https://i.ibb.co/cXFnLLV/3.png",
+    img: "https://ups.aopcdn.com/s19879/common/19100/748u7795d4c57e76450ab26c8c8259be89f9.jpg",
     title: "SUMMER SALE",
     desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
     bg: "f5fafd",
   },
   {
     id: 2,
-    img: "https://i.ibb.co/DG69bQ4/2.png",
+    img: "https://www.foreverfearlessmag.com/wp-content/uploads/2021/11/joyful-young-woman-in-autumn-outfit-catching-yellow-leaves-during-her-walk-at-park-on-bright-fall.jpg",
     title: "AUTUMN COLLECTION",
     desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
     bg: "fcf1ed",
