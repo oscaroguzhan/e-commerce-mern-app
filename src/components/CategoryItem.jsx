@@ -4,6 +4,9 @@ const Container = styled.div`
     margin: 3px;
     height: 70vh;
     position:relative;
+    &:hover {
+      opacity: 0.6;
+    }
 `;
 const Image = styled.img`
     width:100%;
